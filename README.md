@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🌱 I'm a student of SKKU (Sungkyunkwan University) majoring computer science.
+🌱 I’m currently learning web frontend & backend.
+🌱 Also, preparing programming contests.
+
+
 <!--
 **uniqueimaginate/uniqueimaginate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

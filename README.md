@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 I'm a student of SKKU (Sungkyunkwan University) majoring computer science.    
-🌱 I’m currently learning Frontend, Backend
+🌱 I’m currently learning Frontend, Backend.  
 🌱 Also, preparing programming contests.
 
 

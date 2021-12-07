@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-🌱 I'm a student of SKKU (Sungkyunkwan University) majoring computer science.    
 🌱 I’m currently learning iOS.  
 🌱 Also, preparing programming contests.
 

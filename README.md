@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning iOS.  
-🌱 Also, preparing programming contests.
+🌱 I’m currently studying Graphic Information Technology at ASU.  
 
 
 <!--
